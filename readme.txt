@@ -3,5 +3,6 @@ Git is a free software distbuted under the GPL
 Git has a mutable index called stage
 Git tracks changes of files
 creating a new branch is quick and simple
+add new line as bug fix
 not fast forward
 dev3
