@@ -7,3 +7,4 @@ add new line as bug fix
 not fast forward
 testing a second developer
 first issue
+second issue
